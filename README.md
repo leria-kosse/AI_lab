@@ -1,6 +1,6 @@
-# (_TODO: fill in the title of this assignment here!_)
+Bloom Filters
 
-Authors: (_TODO: fill in your names here!_)
+Authors: (Valeria, Oscar, Robell)
 
 ## Build commands
 
@@ -10,6 +10,5 @@ Authors: (_TODO: fill in your names here!_)
 
 ## Resources
 
-*   (_TODO: fill in resources here!_)
-*   ...
-*   ...
+*   CHAT_GPT was consulted to provide high-level program design assistance (parsing out PM language and telling us what the program should do and logic behind it.)
+*   Claude and GPT Codex was used to provide specific code snippets and examples. 
